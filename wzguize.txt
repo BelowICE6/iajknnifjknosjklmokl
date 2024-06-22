@@ -10,6 +10,7 @@ DOMAIN,down.anticheatexpert.com,PROXY
 DOMAIN-KEYWORD,anticheatexpert,PROXY
 DOMAIN,cs.mbgame.gamesafe.qq.com,PROXY
 DOMAIN,ipv6.mainconn.gamesafe.qq.com,PROXY
+DOMAIN,ipv6.mainconn.anticheatexpert.com,PROXY
 DOMAIN,cs.mbgame.anticheatexpert.com,PROXY
 DOMAIN,cs.mainconn.gamesafe.qq.com,PROXY
 DOMAIN,nj.cschannel.anticheatexpert.com,PROXY
